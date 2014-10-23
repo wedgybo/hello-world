@@ -23,7 +23,7 @@ Here's some information about me.
  - [x] Write a lot of nonsense in it so it looks like I'm smart
  - [x] Attend Patchworks Edinburgh
  - [x] Mentor people on how use GitHub for collaboration
- - [ ] Get high fives from said mentees. Make them send a [PR](https://github.com/wedgybo/hello-world/pulls) to confirm the high five (Will also accept fist bumps)
+ - [x] Get high fives from said mentees. Make them send a [PR](https://github.com/wedgybo/hello-world/pulls) to confirm the high five (Will also accept fist bumps)
  - [ ] Get someone to fork this repo and send in a PR
  - [ ] goto: pub;
 
